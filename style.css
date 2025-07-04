@@ -1,0 +1,13 @@
+div {
+  margin: 50px 400px;
+  border: 10px solid tomato;
+  padding: 100px 50px;
+  box-shadow: 10px 10px 10px rgba(12, 12, 12, 0.707);
+  align-items: center;
+}
+
+#second {
+  background-image: url(https://student-cms.prd.timeshighereducation.com/sites/default/files/styles/default/public/cbh_rhul_arch1_0026v1_1_0.jpg?itok=qOtCnkFQ);
+  background-size: cover;
+  background-repeat: no-repeat;
+}

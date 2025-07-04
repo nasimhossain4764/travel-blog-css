@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  background-image: url(https://media.cnn.com/api/v1/images/stellar/prod/180314173227-best-places-in-uk-hadrians-wall-visitbritain-thomas-heaton.jpg?q=w_1600,h_898,x_0,y_0,c_fill/w_1280);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 20px 13px;
+  padding: 150px 0px;
+}
+
+.home h1 {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  align-items: center;
+  font-size: 55px;
+  color: white;
+}
+
+.home p {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 15px;
+  color: white;
+  font-weight: 500;
+}
+
+.orange {
+  color: rgba(31, 222, 31, 0.978);
+}
+
+#u-diary {
+  text-align: center;
+  font-weight: bold;
+
+}
+
+h3 {
+  text-align: center;
+}
+
+#para {
+  text-align: center;
+  margin: 13px;
+}
+
+.box {
+  border-left: 20px solid rgb(102, 97, 97);
+  background-color: rgb(223, 146, 112);
+  width: 25%;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 30px;
+  box-shadow: 10px 10px 10px rgb(142, 135, 135);
+  display: inline-block;
+}
+
+.picture {
+  margin: 20px 13px;
+  width: 20%;
+  display: inline-block;
+}
+
+.foot {
+  text-align: center;
+  background-color: rgb(146, 170, 146);
+  margin-top: 20px;
+  padding: 20px 0px;
+  font-weight: 600;
+  color: black;
+}
