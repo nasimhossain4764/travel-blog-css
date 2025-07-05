@@ -63,6 +63,7 @@ h3 {
   margin: 20px 13px;
   width: 20%;
   display: inline-block;
+  height: 150px;
 }
 
 .foot {
@@ -72,4 +73,9 @@ h3 {
   padding: 20px 0px;
   font-weight: 600;
   color: black;
+}
+
+.all-picture {
+  width: 1170px;
+  margin: 0px auto;
 }
